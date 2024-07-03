@@ -5,7 +5,7 @@
 1. Убедитесь, что у вас установлен Docker.
 2. Перейдите в корневой каталог проекта:
     ```bash
-    pip install -r requirements.txt
+    cd ci-cd/app
     ```
 3. Постройте Docker-образ:
     ```bash
