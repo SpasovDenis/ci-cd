@@ -4,8 +4,8 @@
 
 1. Убедитесь, что у вас установлен Docker.
 2. Перейдите в корневой каталог проекта:
-  ```bash
-    cd app
+    ```bash
+    pip install -r requirements.txt
     ```
 3. Постройте Docker-образ:
     ```bash
