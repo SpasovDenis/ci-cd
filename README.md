@@ -1,4 +1,4 @@
-# Flask Health Check HTTP Server
+# HTTP-сервер на Flask, который возвращает статус "200 OK" на запрос `/healthz`.
 
 Это простой HTTP-сервер на Flask, который возвращает статус "200 OK" на запрос `/healthz`.
 
